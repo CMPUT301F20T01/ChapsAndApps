@@ -3,5 +3,5 @@ package com.example.chapsandapps;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "purple";
+    private String color = "Orangey-Red";
 }
